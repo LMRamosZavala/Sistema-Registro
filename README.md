@@ -4,4 +4,6 @@
 
 Para ejecutar el sistema debes poner :
 
-npm install reset
+'''npm install reset'''
+
+Sistema de Registro 2
